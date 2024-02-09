@@ -1,8 +1,8 @@
+ALL INFO BELOW IS NOT CORRECT FOR THIS MACRO.  I WILL UPDATE EVENTUALLY.
+
 Requires AutoHotKey v2 installed on your system
 
 Download it from here: https://www.autohotkey.com/
-
-ALL INFO BELOW IS NOT CORRECT FOR THIS MACRO.  I WILL UPDATE EVENTUALLY
 
 When you download the macro file, extract all and open the "AutoFish.ahk" file
 - F1 to activate the macro when it's open
