@@ -2,7 +2,7 @@
 
 This was made with the help of Collector, nearly all the code comes from the forked repository. This is going to eventually be a project of mine to help me learn AHK, and maybe other coding languages.  
 
-Requires AutoHotKey v2 installed on your system
+Requires AutoHotKey v1.1 installed on your system
 
 Download it from here: https://www.autohotkey.com/
 
