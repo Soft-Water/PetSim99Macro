@@ -1,4 +1,4 @@
-# ALL INFO BELOW IS NOT CORRECT FOR THIS MACRO.  I WILL UPDATE EVENTUALLY.
+## ALL INFO BELOW IS NOT CORRECT FOR THIS MACRO.  I WILL UPDATE EVENTUALLY.
 
 This was made with the help of Collector, nearly all the code comes from the forked repository. This is going to eventually be a project of mine to help me learn AHK, and maybe other coding languages.  
 
